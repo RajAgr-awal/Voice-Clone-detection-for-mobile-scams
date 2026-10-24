@@ -1,0 +1,38 @@
+# Datasets & Large Archives (ASVspoof, zip archives)
+LA/
+LA.zip
+data/
+*.npz
+*.tar.gz
+*.zip
+
+# Audio test files & recordings
+*.wav
+*.flac
+*.mp3
+*.ogg
+
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Node & Frontend build
+node_modules/
+dist/
+build/
+.vite/
+*.local
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
